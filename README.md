@@ -16,3 +16,4 @@ Pepole can use this project by downlodaing the rmarkdown and run the command of 
 
 ### License 
 This work is licensed under MIT license 
+### Cite the code [![DOI](https://zenodo.org/badge/528095301.svg)](https://zenodo.org/badge/latestdoi/528095301)
